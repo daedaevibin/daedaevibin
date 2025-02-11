@@ -17,11 +17,11 @@
 
    <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Projects</h2>
     <ul style="list-style-type: disc; padding-left: 20px;">
-      <li><a href="https://github.com/YeonSphere/K-likOS" style="color: #D5804F; text-decoration: none; font-weight: bold;">KëlikOS</a></li>
-      <li><a href="https://github.com/YeonSphere/VelkaOS" style="color: #D5804F; text-decoration: none; font-weight: bold;">VelkaOS</a></li>
-      <li><a href="https://github.com/YeonSphere/Zyren" style="color: #D5804F; text-decoration: none; font-weight: bold;">Zyren</a></li>
-      <li><a href="https://github.com/YeonSphere/Vaelix" style="color: #D5804F; text-decoration: none; font-weight: bold;">Vaelix</a></li>
-      <li><a href="https://github.com/YeonSphere/XyrethAI" style="color: #D5804F; text-decoration: none; font-weight: bold;">XyrethAI</a></li>
+      <li><a href="https://github.com/YeonSphere/K-likOS" style="color: #D5804F; text-decoration: none;">KëlikOS</a></li>
+      <li><a href="https://github.com/YeonSphere/VelkaOS" style="color: #D5804F; text-decoration: none;">VelkaOS</a></li>
+      <li><a href="https://github.com/YeonSphere/Zyren" style="color: #D5804F; text-decoration: nonne;">Zyren</a></li>
+      <li><a href="https://github.com/YeonSphere/Vaelix" style="color: #D5804F; text-decoration: none;">Vaelix</a></li>
+      <li><a href="https://github.com/YeonSphere/XyrethAI" style="color: #D5804F; text-decoration: none;">XyrethAI</a></li>
     </ul>
 
    <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Connect with me</h2>
