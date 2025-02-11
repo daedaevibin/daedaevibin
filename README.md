@@ -23,9 +23,9 @@
 
   <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Connect with me</h2>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li><a href="https://discord.com/users/daedaevibin" style="color: #D5804F; text-decoration: none; font-weight: bold;">Discord</a></li>
-    <li><a href="https://www.instagram.com/daedaevibin?igsh=aTg3cjFmbzdiY2s0" style="color: #D5804F; text-decoration: none; font-weight: bold;">Instagram</a></li>
-    <li><a href="https://matrix.to/@daedaevibin#/@daedaevibin:matrix.org" style="color: #D5804F; text-decoration: none; font-weight: bold;">Matrix</a></li>
+    <li><a href="https://discord.com/users/daedaevibin/" style="color: #D5804F; text-decoration: none; font-weight: bold;">Discord</a></li>
+    <li><a href="https://www.instagram.com/daedaevibin/" style="color: #D5804F; text-decoration: none; font-weight: bold;">Instagram</a></li>
+    <li><a href="https://matrix.to/@daedaevibin#/@daedaevibin:matrix.org/" style="color: #D5804F; text-decoration: none; font-weight: bold;">Matrix</a></li>
   </ul>
 </div>
 
