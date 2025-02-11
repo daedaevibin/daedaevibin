@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
 
 <div align="center" style="font-family: 'Delius', Arial, sans-serif; background: linear-gradient(to bottom right, #1A1A1A, #333333); color: #F5DEB3; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(230, 126, 34, 0.5);">
-  <h1 style="font-size: 50px; color: #D5804F; text-shadow: 2px 2px 4px #A77250;">대 으화</h1> <br/>
+  <h1 style="font-size: 50px; color: #D5804F; text-shadow: 2px 2px 4px #A77250;">대 으화/Dae Euhwa</h1> <br/>
 
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=daedaevibin&show_icons=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" alt="GitHub Stats" width="49%" style="border-radius: 10px; box-shadow: 0 0 5px rgba(230, 126, 34, 0.3);"/>
