@@ -3,15 +3,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
 
 <div align="center" style="font-family: 'Delius', Arial, sans-serif; background: linear-gradient(to bottom right, #1A1A1A, #333333); color: #F5DEB3; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(230, 126, 34, 0.5);">
-  <h1 style="font-size: 50px; color: #D5804F; text-shadow: 2px 2px 4px #A77250;">대 으화 / Dae Euhwa</h1> <br/>
+  <h1 style="font-size: 50px; color: #D5804F; text-shadow: 2px 2px 4px #A77250;">대 으화/Dae Euhwa</h1>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 1000px;">
     <img src="https://github-readme-stats.vercel.app/api?username=daedaevibin&show_icons=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" alt="GitHub Stats" width="49%" style="border-radius: 10px; box-shadow: 0 0 5px rgba(230, 126, 34, 0.3);"/>
-
     <img src="https://github-readme-streak-stats.herokuapp.com?user=daedaevibin&theme=dark&background=1A1A1A&ring=D5804F&fire=A77250&currStreakLabel=D5804F&sideNums=F5DEB3&dates=F5DEB3&sideLabels=A77250" alt="Streak Stats" width="49%" style="border-radius: 10px; box-shadow: 0 0 5px rgba(230, 126, 34, 0.3);"/>
   </div>
 
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 20px; max-width: 900px; width: 100%;">
     <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">About Me</h2>
     <p>I'm a passionate hobbyist developer who is tired of big companies.</p>
 
