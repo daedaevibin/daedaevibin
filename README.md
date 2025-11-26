@@ -1,12 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dae Euhwa</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">  
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
 <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">  
+</head>
+<body style="margin:0; font-family: 'Delius', Arial, sans-serif; background: #111; color: #F5DEB3;">
 
-<div align="center" style="font-family: 'Delius', Arial, sans-serif; background: linear-gradient(to bottom right, #1A1A1A, #333333); color: #F5DEB3; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(230, 126, 34, 0.5);">  
+<div align="center" style="background: linear-gradient(to bottom right, #1A1A1A, #333333); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(230, 126, 34, 0.5);">  
   <h1 style="font-size: 50px; color: #D5804F; text-shadow: 2px 2px 4px #A77250;">대 으화 / Dae Euhwa</h1>  
-  <br/>  
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top:20px;">  
     <img src="https://github-readme-stats.vercel.app/api?username=daedaevibin&show_icons=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A"  
          alt="GitHub Stats" width="49%" style="border-radius: 10px; box-shadow: 0 0 5px rgba(230, 126, 34, 0.3);"/>  
 
@@ -14,20 +21,23 @@
          alt="Streak Stats" width="49%" style="border-radius: 10px; box-shadow: 0 0 5px rgba(230, 126, 34, 0.3);"/>  
   </div>  
 
-  <div style="margin-top: 20px;">  
+  <div style="margin-top: 20px; text-align: left; max-width: 600px;">  
     <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">About Me</h2>  
     <p>I'm a passionate hobbyist developer who is tired of big companies.</p>  
 
     <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Website</h2>  
-    <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">  
+    <ul style="list-style-type: disc; padding-left: 20px;">  
       <li><a href="https://veridianzenith.qzz.io" style="color: #D5804F; text-decoration: none; font-weight: bold;">veridianzenith.qzz.io</a></li>  
     </ul>  
 
     <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Connect with me</h2>  
-    <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">  
+    <ul style="list-style-type: disc; padding-left: 20px;">  
       <li><a href="https://discord.com/users/daedaevibin/" style="color: #D5804F; text-decoration: none; font-weight: bold;">Discord</a></li>  
       <li><a href="https://www.instagram.com/daedaevibin/" style="color: #D5804F; text-decoration: none; font-weight: bold;">Instagram</a></li>  
       <li><a href="https://matrix.to/#/@daedaevibin:matrix.org" style="color: #D5804F; text-decoration: none; font-weight: bold;">Matrix</a></li>  
     </ul>  
   </div>  
 </div>
+
+</body>
+</html>
