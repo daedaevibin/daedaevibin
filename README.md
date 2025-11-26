@@ -18,7 +18,7 @@
   <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;"Website"</h2>  
     <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">  
   
-      <li><a href="https://vz.strangled.net:777" style="color: #D5804F; text-decoration: none; font-weight:  
+      <li><a href="https://veridianzenith.qzz.io" style="color: #D5804F; text-decoration: none; font-weight:  
   
   <h2 style="color: #9B59B6; text-shadow: 2px 2px 4px #512DA8;">Connect with me</h2>  
     <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">  
