@@ -5,9 +5,15 @@
 ### Global Activity (Personal + Org Contributions)
 ![All Activity](https://github-readme-stats.shion.dev/api?username=daedaevibin&show_icons=true&include_all_commits=true&count_private=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)
 
+![Global Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daedaevibin&layout=compact&langs_count=10&include_all_commits=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=daedaevibin&theme=dark&background=1A1A1A&ring=D5804F&fire=A77250&currStreakLabel=D5804F&sideNums=F5DEB3&dates=F5DEB3&sideLabels=A77250)
 
-![Global Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=daedaevibin&layout=compact&langs_count=10&include_all_commits=true&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)
+### 🛠️ Veridian Zenith Core Projects
+| | |
+| --- | --- |
+| [![Voix](https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=Voix&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)](https://github.com/Veridian-Zenith/Voix) | [![Website](https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=veridianzenith.qzz.io&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)](https://github.com/Veridian-Zenith/veridianzenith.qzz.io) |
+| [![Vaelix](https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=Vaelix&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)](https://github.com/Veridian-Zenith/Vaelix) | [![Meshiji](https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=meshiji&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A)](https://github.com/Veridian-Zenith/meshiji) |
 
 ---
 
