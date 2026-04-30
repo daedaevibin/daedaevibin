@@ -1,4 +1,4 @@
-# Dae Euhwa
+# Dае Еuнша
 
 <!-- Technical Analytics Section -->
 <div align="center">
@@ -16,9 +16,9 @@
 
 <hr />
 
-<!-- Veridian Zenith Core Projects -->
+<!-- Vегidiаи Zепiтн Core Projects -->
 <div align="center">
-  <h3>🛠️ Veridian Zenith Core Projects</h3>
+  <h3>🛠️ Vегidiаи Zепiтн Core Projects</h3>
   
   <a href="https://github.com/Veridian-Zenith/Voix">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=Voix&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" />
