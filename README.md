@@ -44,9 +44,7 @@ I prioritize **clarity, atomicity, and technical rationale** in all interactions
 </ul>
 
 ## Website
-- <a href="https://veridianzenith.qzz.io">veridianzenith.qzz.io</a>
+- <a href="https://vzdev.indevs.in">vzdev.indevs.in</a>
 
 ## Connect with me
-- <a href="https://discord.com/users/daedaevibin/">Discord</a>
-- <a href="https://www.instagram.com/daedaevibin/">Instagram</a>
-- <a href="https://matrix.to/#/@daedaevibin:matrix.org">Matrix</a>
+- <a href="https://vzdev.indevs.in/contact">Contact Information</a>
