@@ -16,20 +16,6 @@
 
 <hr />
 
-## Now
-
-**Bréf** — a peer-to-peer, end-to-end encrypted messenger. No accounts, no phone
-numbers, and no server that holds your contact list or your message contents.
-Peers find each other by public key, punch through NATs, and fall back to a
-stateless relay only when they must; an always-on desktop node holds the queue
-for when your phone is asleep.
-
-Rust core over iroh · GTK4 on Linux and Windows · Jetpack Compose on Android.
-Currently at design stage, deliberately before any code.
-
-→ [Repository](https://github.com/daedaevibin/bref) · [Design spec](https://github.com/daedaevibin/bref/blob/main/DESIGN.md)
-
-<hr />
 
 ## Projects
 
