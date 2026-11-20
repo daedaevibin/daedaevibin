@@ -19,9 +19,10 @@
 ## Now
 
 **Bréf** — a peer-to-peer, end-to-end encrypted messenger. No accounts, no phone
-numbers, no server that sees who talks to whom. Peers find each other by public
-key, punch through NATs, and fall back to a stateless relay only when they must;
-an always-on desktop node holds the queue for when your phone is asleep.
+numbers, and no server that holds your contact list or your message contents.
+Peers find each other by public key, punch through NATs, and fall back to a
+stateless relay only when they must; an always-on desktop node holds the queue
+for when your phone is asleep.
 
 Rust core over iroh · GTK4 on Linux and Windows · Jetpack Compose on Android.
 Currently at design stage, deliberately before any code.
@@ -37,8 +38,8 @@ Currently at design stage, deliberately before any code.
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=Voix&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" />
   </a>
   <br />
-  <a href="https://github.com/Veridian-Zenith/veridianzenith.qzz.io">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=veridianzenith.qzz.io&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" />
+  <a href="https://github.com/Veridian-Zenith/vzdev.indevs.in">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Veridian-Zenith&repo=vzdev.indevs.in&title_color=D5804F&icon_color=A77250&text_color=F5DEB3&bg_color=1A1A1A" />
   </a>
   <br />
   <a href="https://github.com/daedaevibin/bref">
@@ -65,8 +66,8 @@ I prioritize **clarity, atomicity, and technical rationale** in all interactions
 
 ## Website
 
-- <a href="https://vzdev.indevs.in">vzdev.indevs.in</a>
+- <a href="https://verz.group">verz.group</a>
 
 ## Connect with me
 
-- <a href="https://vzdev.indevs.in/contact">Contact Information</a>
+- <a href="https://verz.group/contact">Contact Information</a>
